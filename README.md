@@ -1,13 +1,10 @@
-# tailwindcss-kiss
-tailwindcss v4.1.13
-
 # Keep it simple, stupid!
 Compiled tailwindcss for easy stylesheet import into any project without the need for javascript.
 
 Tailwindcss uncomplicated, not everyone is using javascript as their stack or running local javascript compile tools. This is my solution to why no CDN or raw css for a simple css output that should be readily avaliable as an option.
 
 # Directions
-Copy the raw css file into a local file and import it into your html. Simple!
+Copy the raw css into a local file and import it into your html. Simple!
 ```
 <link href="tailwind.min.css" rel="stylesheet">
 ```
